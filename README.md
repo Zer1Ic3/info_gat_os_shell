@@ -1,5 +1,5 @@
 Security Information Gathering
-===============
+=========
 
 Project can be download from: https://github.com/Zer1Ic3/info_gat_os_shell.git
 -----------------------------
